@@ -6,3 +6,5 @@ Shading the screen using letters of the alphabet in Processing. All printable as
 And after a couple of years of typing:
 
 ![screenshot](https://github.com/elterminad0r/alphabet/blob/master/screenshots/alph2.png)
+
+[Here](https://youtu.be/K-3I5doHDqs) is a *short* video of it in action.

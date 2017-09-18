@@ -1,12 +1,11 @@
 //ascii printable - 33 - 126
 
 void setup() {
-  size(1600, 800);
+  size(1280, 720);
   background(0);
 }
 
 void draw () {
-  
 }
 
 void addLetter(char c) {
